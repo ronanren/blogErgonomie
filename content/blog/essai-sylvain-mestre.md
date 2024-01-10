@@ -1,6 +1,6 @@
 ---
 external: false
-title: "L'Accessibilité dans le Monde des Jeux Vidéo : Défis et Solutions pour les Joueurs Handicapés par Sylvain Mestre"
+title: "L'accessibilité dans le monde des jeux vidéo : défis et solutions pour les joueurs handicapés par Sylvain Mestre"
 description: "Essai sur l'accessibilité à tous dans le monde des jeux vidéo"
 date: 2024-01-10
 ---
