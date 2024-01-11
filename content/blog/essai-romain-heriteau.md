@@ -1,13 +1,15 @@
 ---
 external: false
-title: "Exploration du volet psychologie sociale dans le développement logiciel : théorie de l'engagement, biais d'ancrage"
+title: "Exploration du volet psychologie sociale dans le développement logiciel : théorie de l'engagement, biais d'ancrage par Romain Heriteau"
 description: "Comment la psychologie sociale peut-elle permettre d'ameliorer les processus de developpement logiciel ?"
 date: 2024-01-11
 ---
 
+## Introduction
+
 La psychologie sociale offre des clés pour comprendre les interactions humaines dans le domaine du développement logiciel. En associant la "théorie de l'engagement" et le "biais d'Ancrage" à mon expérience personnelle de développement d'une application, je vais explorer comment ces concepts avoir un impacte sur le developpement logiciel.
 
-## La théorie de l'Engagement :
+## La théorie de l'Engagement :
 
 La "théorie de l'Engagement" nous dit que les individus ont tendance à rester cohérents avec leurs choix antérieurs, même lorsque que ces choix de sont pas forcement les bons. Dans le contexte du développement logiciel, cela se traduit par la persistance dans une voie choisie, même quand signes montre de nécessité de changement.
 
@@ -15,7 +17,7 @@ Lors du développement d'une application, j'ai été confronté à la réalité 
 
 Ce qu'il faut retenir : bien que l'engagement soit souvent considéré comme positif, il est crucial de rester agile et d'ajuster les choix lorsque des problèmes apparaissent. La rigidité de l'engagement peut entraver l'adaptabilité dont il faut faire preuve dans le développement logiciel.
 
-## Le biais d'ancrage dans le développement logiciel :
+## Le biais d'ancrage dans le développement logiciel :
 
 Le "biais d'ancrage" est une tendance cognitive à accorder trop d'importance à la première information reçue lors de la prise de décision. Dans le contexte du développement logiciel, cela se manifeste souvent lors de l'estimation des délais ou du choix initial de technologies. Les premières estimations ou décisions créent un ancrage mental qui influence les decisions ultérieures, même quand des changements sont nécessaires.
 
