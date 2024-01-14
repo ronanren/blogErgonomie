@@ -1,8 +1,8 @@
 ---
 external: false
-title: "L'accessibilité dans le monde des jeux vidéo : défis et solutions pour les joueurs handicapés par Sylvain Mestre"
-description: "Essai sur l'accessibilité à tous dans le monde des jeux vidéo"
-date: 2024-01-11
+title: "Essai sur l'influence sociale par Antoine Maurais"
+description: "L’influence sociale exerce t-elle une pression suffisante sur l’individu pour l’amener à adopter une pensée et ainsi à faire des actions qu’il n’aurait pas faites en temps normal ?"
+date: 2024-01-14
 ---
 
 
